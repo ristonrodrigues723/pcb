@@ -28,6 +28,9 @@ Additionally, I had to make several changes to the Bill of Materials (BOM) becau
 - **Part Availability**: I had to adjust the BOM multiple times due to parts being unavailable.
 
 ## Links
-- [Schematic Image](link-to-image)
-- [PCB Image](link-to-image)
-- [Routing Image](link-to-image)
+- [Schematic Image](link-to-image)![Screenshot 2025-01-23 235928](https://github.com/user-attachments/assets/b403be45-2205-40b8-a603-0d3627c855b3)
+
+
+- [PCB Image](link-to-image)![Screenshot 2025-01-25 231714](https://github.com/user-attachments/assets/38688f33-56b9-4158-908f-eaa0531cb309)
+- [Routing Image](link-to-image)![Screenshot 2025-01-29 143815](https://github.com/user-attachments/assets/461f8641-0a42-432a-847e-3cd77e070e4b)
+
